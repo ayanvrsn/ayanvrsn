@@ -5,7 +5,7 @@
 
 ## 🚀 Обо мне
 - 🎯 Студент 2 курса **Software Engineering** (minor FinTech)  
-- 💻 Интересуюсь **фрилансом, партнёрками (RevShare 50%), онлайн-доходами**  
+- 💻 Интересуюсь **фрилансом, партнёрками (RevShare 50%), SaaS**  
 - 📹 Создаю и публикую **видеоконтент** для продвижения  
 - 📊 Стремлюсь систематизировать работу: учёба, деньги, проекты  
 - 🔥 Хочу построить карьеру в **Tech + FinTech + Digital Business**
@@ -27,9 +27,9 @@
 
 ## 📫 Контакты
 <p align="center">
-  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/thelouisv"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:aabilbek2@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ayanabilbek"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
