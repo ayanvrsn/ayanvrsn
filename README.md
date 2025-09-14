@@ -5,8 +5,10 @@
 
 ## 🛠️ Технологии & Инструменты
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,flutter,java,js,react,html,css,git,python,figma,mysql,linux" />
+  <img src="https://skillicons.dev/icons?i=swift,flutter,java,rust,python,figma" />
 </p>
+<h3>DevOps</h3>
+  <img src="https://skillicons.dev/icons?i=docker,kafka,git,mysql,postgresql,linux" />
 
 ---
 
