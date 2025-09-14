@@ -5,7 +5,7 @@
 
 ## 🛠️ Технологии & Инструменты
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,html,css,git,figma,mysql,linux" />
+  <img src="https://skillicons.dev/icons?i=swift,flutter,java,js,react,html,css,git,python,figma,mysql,linux" />
 </p>
 
 ---
